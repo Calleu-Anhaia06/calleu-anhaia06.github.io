@@ -8,6 +8,8 @@ h1 {
 }
 
 .blz {
+    border: 10px;
+    border-color: blue;
     box-shadow: 0px 0px 10px blue, 0px 0px 10px blue inset;
-    border: 2px solid blue;
+
 }
