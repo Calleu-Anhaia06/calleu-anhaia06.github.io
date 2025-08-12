@@ -10,6 +10,4 @@ h1 {
 .blz {
     box-shadow: 0px 0px 10px blue, 0px 0px 10px blue inset;
     border: 2px solid blue;
-    height: 100px;
-    width: 100px;
 }
