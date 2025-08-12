@@ -6,3 +6,8 @@ body {
 h1 {
     color: #ff0a0a;
 }
+
+img {
+    border-radius: 10px;
+    border-color: plum;
+}
