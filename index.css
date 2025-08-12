@@ -14,7 +14,7 @@ h1 {
 	cursor: pointer;
 }
 
-.#blz hover{
+.blz hover{
     border: 30px solid blue;
     background-color: rgb(150, 215, 255);
     transition: 1s;
