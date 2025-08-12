@@ -7,14 +7,14 @@ h1 {
     color: #ff0a0a;
 }
 
-#blz {
+.blz {
     border: 30px solid blue;
 	background-color: rgb(150, 215, 255);
     transition: 1s; font-size: 40px;
 	cursor: pointer;
 }
 
-#blz hover{
+.#blz hover{
     border: 30px solid blue;
     background-color: rgb(150, 215, 255);
     transition: 1s;
