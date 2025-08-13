@@ -11,6 +11,6 @@ h1 {
     border: 10px;
     border-color: blue;
     box-shadow: 0px 0px 10px blue, 0px 0px 10px blue inset;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
 }
